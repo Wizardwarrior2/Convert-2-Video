@@ -1,8 +1,7 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram File convert Bot!
-You can convert any Telegram Document, using this bot! With custom thumbnail
-     
+ 𝗜 𝗔𝗺 𝗮 𝗙𝗶𝗹𝗲 𝗧𝗼 𝗩𝗶𝗱𝗲𝗼 𝗔𝗻𝗱 𝗩𝗶𝗱𝗲𝗼 𝗧𝗼 𝗙𝗶𝗹𝗲 𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗯𝗕𝗼𝘁 !
+𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗻𝘃𝗲𝗿𝘁 𝗔𝗻𝘆 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁, 𝗨𝘀𝗶𝗻𝗴 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗪𝗶𝘁𝗵 𝗖𝘂𝘀𝘁𝗼𝗺 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 🔰 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗠𝘂𝘀𝘁 𝗝𝗼𝗶𝗻 𝗠𝘆 𝗨𝗽𝗱𝗮𝘁𝗶𝗼𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 : @Mega_Bots_Updates
     """
     ABS_TEXT = " Please don't be selfish."
     BANNED_USER_TEXT = "you are banned"
@@ -25,17 +24,17 @@ Telegram ID: <code>{}</code>
 Plan name: <a href='https://t.me/InFoTelGroup/174'>{}</a>
 Expires on: {}"""
     HELP_USER = """I can do:
-👉 <a href="https://telegram.dog/FileConvertRobot">Convert To Streamable video any telegram file</a>
+👉 <a href="https://telegram.dog/Mega_Bots_Updates">Convert To Streamable video any telegram file</a>
 --------
 
-🔥 How to deploy : <a href='https://youtu.be/zQamSjXBpJU'>Click here</a>
+🔥 𝗨𝗽𝗱𝗮𝘁𝗶𝗼𝗶𝗻 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 : <a href='https://t.me/Mega_Bots_Updates'>Click here</a>
 
-    © Group   : @InfotelGroup
-    © Channel : @DX_BotZ 
-    © credits : @Spechide
+    © 𝗚𝗿𝗼𝘂𝗽   : @Mega_Bots_Supporters
+    © 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 : @Mega_Bots_Supporters
+    © 𝗧𝘃 𝗦𝗵𝗼𝘄𝘀 : @Tv_Shows_Full_HD
 
 Send /me to know current plan details
 
 """
 
-    REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
+    REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert 😡😡"
